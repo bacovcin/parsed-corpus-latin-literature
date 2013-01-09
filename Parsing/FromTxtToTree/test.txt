@@ -1,0 +1,3 @@
+ID:AugustineEpistulae,1
+METADATA:(METADATA (AUTHOR (NAME Augustine)) (LETTER (DATE 386) (TITLE Zenobio_Augustinus)))
+TEXT:Valete! respondit caupo, qui in via stabat.  Iam urbi appropinquabant, cum subito pueri ingens aedificium conspexerunt.
