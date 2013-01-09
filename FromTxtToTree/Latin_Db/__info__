@@ -1,0 +1,1 @@
+__id__:int __version__:int lemma_short_def:str lemma_text:str morph_code:str form:str lemma_num:str
