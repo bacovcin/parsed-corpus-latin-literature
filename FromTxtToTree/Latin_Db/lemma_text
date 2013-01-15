@@ -435670,7 +435670,7 @@
 -ut
 -ut
 -ut
--ut
+#ut
 -ut
 -ut
 -ut
@@ -457399,3 +457399,18 @@
 -quare
 -quare
 -fio
+-ut
+#ut
+#colligero
+#publicaro
+-colligo
+-colligo
+-publico
+-colligo
+--
+#neque
+-nec
+-nec
+-enim
+-compono
+-sed
